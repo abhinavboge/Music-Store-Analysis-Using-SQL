@@ -23,6 +23,15 @@ The database contains multiple tables, including:
 - **Employee** – store staff information
 - **Genre** – music genres
 
+#How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/yourusername/SQL_Music_Store_Analysis.git
+
+Open the database in your SQL client (SQLite / MySQL / PostgreSQL).
+
+Run the queries from the queries.sql or analysis notebook.
 
 
 
